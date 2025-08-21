@@ -1,0 +1,6 @@
+{
+  "singleQuote": true,
+  "trailingComma": "all", //배열 끝에 콤마마
+  "tabWidth": 2,
+  "semi": true
+}
